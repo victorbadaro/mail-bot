@@ -1,29 +1,29 @@
 {
-  "codigo": "PW769258045BR",
-  "status": [
-    {
-      "dt": "29/04/2020 \n16:33       \n\nSao Paulo / SP\n\n",
-      "descricao": "\n\nObjeto entregue ao destinatário\n \n\t\n"
-    },
-    {
-      "dt": "29/04/2020 \n10:14       \n\nSao Paulo / SP\n\n",
-      "descricao": "\n\nObjeto saiu para entrega ao destinatário\n \n\t\n"
-    },
-    {
-      "dt": "28/04/2020 \n16:12       \nSAO PAULO / SP\n\n",
-      "descricao": "\n\nObjeto encaminhado\n \n \t\nde \tUnidade de Tratamento \nem \tSAO PAULO / SP\t\t\t\t\npara \tUnidade de Distribuição\t\t\t\t\nem \tSao Paulo / SP\n\t\n"
-    },
-    {
-      "dt": "27/04/2020 \n08:25       \nRIBEIRAO PRETO / SP\n\n",
-      "descricao": "\n\nObjeto encaminhado\n \n \t\nde \tUnidade de Tratamento \nem \tRIBEIRAO PRETO / SP\t\t\t\t\npara \tUnidade de Tratamento\t\t\t\t\nem \tSAO PAULO / SP\n\t\n"
-    },
-    {
-      "dt": "22/04/2020 \n18:40       \nRIBEIRAO PRETO / SP\n\n",
-      "descricao": "\n\nObjeto encaminhado\n \n \t\nde \tAgência dos Correios \nem \tRIBEIRAO PRETO / SP\t\t\t\t\npara \tUnidade de Tratamento\t\t\t\t\nem \tRIBEIRAO PRETO / SP\n\t\n"
-    },
-    {
-      "dt": "22/04/2020 \n18:30       \n\nRIBEIRAO PRETO / SP\n\n",
-      "descricao": "\n\nObjeto postado após o horário limite da unidade\n \nSujeito a encaminhamento no próximo dia útil \t\n"
-    }
-  ]
+	"codigo": "PW769258045BR",
+	"status": [
+		{
+			"dt": "29/04/2020 \n16:33       \n\nSao Paulo / SP\n\n",
+			"descricao": "\n\nObjeto entregue ao destinatário\n \n\t\n"
+		},
+		{
+			"dt": "29/04/2020 \n10:14       \n\nSao Paulo / SP\n\n",
+			"descricao": "\n\nObjeto saiu para entrega ao destinatário\n \n\t\n"
+		},
+		{
+			"dt": "28/04/2020 \n16:12       \nSAO PAULO / SP\n\n",
+			"descricao": "\n\nObjeto encaminhado\n \n \t\nde \tUnidade de Tratamento \nem \tSAO PAULO / SP\t\t\t\t\npara \tUnidade de Distribuição\t\t\t\t\nem \tSao Paulo / SP\n\t\n"
+		},
+		{
+			"dt": "27/04/2020 \n08:25       \nRIBEIRAO PRETO / SP\n\n",
+			"descricao": "\n\nObjeto encaminhado\n \n \t\nde \tUnidade de Tratamento \nem \tRIBEIRAO PRETO / SP\t\t\t\t\npara \tUnidade de Tratamento\t\t\t\t\nem \tSAO PAULO / SP\n\t\n"
+		},
+		{
+			"dt": "22/04/2020 \n18:40       \nRIBEIRAO PRETO / SP\n\n",
+			"descricao": "\n\nObjeto encaminhado\n \n \t\nde \tAgência dos Correios \nem \tRIBEIRAO PRETO / SP\t\t\t\t\npara \tUnidade de Tratamento\t\t\t\t\nem \tRIBEIRAO PRETO / SP\n\t\n"
+		},
+		{
+			"dt": "22/04/2020 \n18:30       \n\nRIBEIRAO PRETO / SP\n\n",
+			"descricao": "\n\nObjeto postado após o horário limite da unidade\n \nSujeito a encaminhamento no próximo dia útil \t\n"
+		}
+	]
 }

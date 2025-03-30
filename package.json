@@ -1,16 +1,19 @@
 {
-  "name": "mail-bot",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "jsdom": "^16.7.0",
-    "puppeteer": "^3.0.2"
-  }
+	"name": "mail-bot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"jsdom": "^26.0.0",
+		"puppeteer": "^24.4.0"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^1.9.4"
+	}
 }
